@@ -8,5 +8,6 @@ The following order of notebooks represent the project flow from data visualizti
 # Reports
 The following order of documents match the project flow from proposal to final report.
 * Capstone 2 Project Proposal.pdf
+* Capstone 2 Milestone Report.pdf
 # Acknowledgements
 https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
