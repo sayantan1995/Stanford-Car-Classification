@@ -5,6 +5,7 @@ The data for this project was sourced from the Stanford car dataset. The files p
 # Notebooks
 The following order of notebooks represent the project flow from data visualiztion to data modelling. 
 * Capstone 2 Exploratory Data Analysis.ipynb
+* Capstone 2 Modelling.ipynb
 # Reports
 The following order of documents match the project flow from proposal to final report.
 * Capstone 2 Project Proposal.pdf
