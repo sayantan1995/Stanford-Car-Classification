@@ -10,6 +10,7 @@ The following order of notebooks represent the project flow from data visualizti
 The following order of documents match the project flow from proposal to final report.
 * Capstone 2 Project Proposal.pdf
 * Capstone 2 Milestone Report.pdf
+* Capstone 2 Consolidated Report.pdf
 # Slide Deck 
 The slide deck below gives a brief overview of the entire project.
 * Stanford Car Classification.pptx
